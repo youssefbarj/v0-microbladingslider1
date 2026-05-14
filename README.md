@@ -7,7 +7,7 @@
 
 ## Screenshot
 
-![v0-microbladingslider1](https://github.com/youssefbarj/v0-microbladingslider1/raw/main/screenshot.png)
+![v0-microbladingslider1](https://raw.githubusercontent.com/youssefbarj/v0-microbladingslider1/main/screenshot.png)
 
 ## What this slide does
 
